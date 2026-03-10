@@ -1,1 +1,2 @@
 print("dilshat")
+ptint("axmet")
